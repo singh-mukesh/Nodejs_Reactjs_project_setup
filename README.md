@@ -37,6 +37,7 @@ cd repository-name
    ```
 2. **Install the backend dependencies:**
    ```bash
+   npm init
    npm install
    ```
 3. **Create a `.env` file for environment variables:**
